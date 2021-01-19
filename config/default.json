@@ -1,0 +1,4 @@
+{
+  "port": "5000",
+  "mongoUri": "mongodb+srv://vladyslav:stypa_ed1p1a@cluster0.mq6yn.mongodb.net/animals?retryWrites=true&w=majority"
+}
