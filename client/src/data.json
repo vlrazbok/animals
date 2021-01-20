@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Katrine",
+    "img": "Katrine.png",
+    "breed": "Unknown",
+    "desc": "Lorem ipsum dolor sit amet",
+    "age": "2 months",
+    "inoculations": "none",
+    "diseases": "none",
+    "parasites": "none"
+  },
+  {
+    "title": "Charly",
+    "img": "Charly.png",
+    "breed": "Unknown",
+    "desc": "Lorem ipsum dolor sit amet",
+    "age": "3 months",
+    "inoculations": "none",
+    "diseases": "none",
+    "parasites": "none"
+  },
+  {
+    "title": "Jennifer",
+    "img": "Jennifer.png",
+    "breed": "Unknown",
+    "desc": "Lorem ipsum dolor sit amet",
+    "age": "4 months",
+    "inoculations": "none",
+    "diseases": "none",
+    "parasites": "none"
+  },
+  {
+    "title": "Sophia",
+    "img": "Sophia.png",
+    "breed": "Unknown",
+    "desc": "Lorem ipsum dolor sit amet",
+    "age": "1 months",
+    "inoculations": "none",
+    "diseases": "none",
+    "parasites": "none"
+  },
+  {
+    "title": "Timmy",
+    "img": "Timmy.png",
+    "breed": "Unknown",
+    "desc": "Lorem ipsum dolor sit amet",
+    "age": "5 months",
+    "inoculations": "none",
+    "diseases": "none",
+    "parasites": "none"
+  },
+  {
+    "title": "Woody",
+    "img": "Woody.png",
+    "breed": "Unknown",
+    "desc": "Lorem ipsum dolor sit amet",
+    "age": "2 months",
+    "inoculations": "none",
+    "diseases": "none",
+    "parasites": "none"
+  },
+  {
+    "title": "Scarlett",
+    "img": "Scarlett.png",
+    "breed": "Unknown",
+    "desc": "Lorem ipsum dolor sit amet",
+    "age": "3 months",
+    "inoculations": "none",
+    "diseases": "none",
+    "parasites": "none"
+  },
+  {
+    "title": "Freddie",
+    "img": "Freddie.png",
+    "breed": "Unknown",
+    "desc": "Lorem ipsum dolor sit amet",
+    "age": "2 months",
+    "inoculations": "none",
+    "diseases": "none",
+    "parasites": "none"
+  }
+]
