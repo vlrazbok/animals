@@ -5,7 +5,7 @@ import './footer.sass'
 import email from './icons/email.png'
 import phone from './icons/phone.png'
 import location from './icons/location.png'
-
+ 
 const Footer = () => {
   return(
     <footer className="footer">

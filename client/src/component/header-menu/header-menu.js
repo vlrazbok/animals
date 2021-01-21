@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import './header-menu.sass'
 import logo from './header-logo.png'
-
+ 
 export default class HeaderMenu extends Component {
 
   state = {
