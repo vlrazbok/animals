@@ -7,7 +7,6 @@ import './AuthPage.sass'
 
 export const AuthPage = () => {
   const auth = useContext(AuthContext)
-
   const {loading, request} = useHttp()
   const [form, setForm] = useState({
     email: '', password: ''
@@ -22,7 +21,6 @@ export const AuthPage = () => {
     try {
       const data = await request('/api/auth/register', 'POST', {...form})
       console.log('Data:', data)
-     
     } catch (e) {}
   }
 
@@ -64,13 +62,13 @@ export const AuthPage = () => {
               </div>
           </div>
           <div className="auth__card-action ">
-            <button
+            {/* <button
               className="auth__button button"
               disabled={loading}
               onClick={loginHandler}
             >
               Sign in
-            </button>
+            </button> */}
             <button
               className="auth__button button"
               onClick={registerHandler}
